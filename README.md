@@ -28,7 +28,6 @@ With 1 year of experience in the technology field, in addition to growth in cust
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
----
 
 ## 📊 GitHub Stats
 

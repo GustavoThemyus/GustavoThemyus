@@ -1,4 +1,4 @@
-## Gustavo Themyus
+# Gustavo Themyus
 
 ## Tack Stack & Tools
 

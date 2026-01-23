@@ -11,9 +11,9 @@ With 1 year of experience in the technology field, in addition to growth in cust
 ---
 
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
-### 🔹 Full-Stack Development and Architecture
+#### 🔹 Full-Stack Development and Architecture
 
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
@@ -24,7 +24,7 @@ With 1 year of experience in the technology field, in addition to growth in cust
 ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
-### 🔹 Databases & DevOps
+#### 🔹 Databases & DevOps
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)

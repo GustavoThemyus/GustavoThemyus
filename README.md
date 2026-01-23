@@ -35,8 +35,8 @@ With 1 year of experience in the technology field, in addition to growth in cust
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoThemyus&show_icons=true&theme=dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoThemyus&layout=compact&theme=dark" height="160"/>
 </p>
 
 ---

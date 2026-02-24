@@ -31,11 +31,7 @@ Outside of technology, I really enjoy Formula 1, I am passionate about cars and 
 
 ## GitHub Stats
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoThemyus&show_icons=true&theme=dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoThemyus&layout=compact&theme=dark" height="160"/>
-</p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GustavoThemyus?cardType=level&theme=gotham&fontFamily=JetBrains%20Mono&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 

@@ -29,6 +29,14 @@ Outside of technology, I really enjoy Formula 1, I am passionate about cars and 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+## GitHub Stats
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoThemyus&show_icons=true&theme=dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoThemyus&layout=compact&theme=dark" height="160"/>
+</p>
+
 ---
 
 ### Contact

@@ -2,7 +2,7 @@
 
 ### About Me
 
-With 1 year of experience in the technology field, in addition to growth in customer service and organization within the comercial sector, I have been deepening my knowledge in programming, software development, and computational logic, combining discipline, communication, and organization with increasingly strong technical skills.  
+With 1 year of experience in the technology field, in addition to growth in customer service and organization within the commercial sector, I have been deepening my knowledge in programming, software development, and computational logic, combining discipline, communication, and organization with increasingly strong technical skills.  
 Outside of technology, I really enjoy Formula 1, I am passionate about cars and simulators. I like meeting new people and having casual conversations, and I also spend a good amount of time consuming economic content and learning about the financial market. If you’d like to connect, feel free to contact me at gustavothemyusflima@gmail.com.
 
 - Graduating in Computer Science (UNIPÊ)

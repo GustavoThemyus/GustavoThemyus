@@ -40,4 +40,4 @@ Outside of technology, I really enjoy Formula 1, I am passionate about cars and 
 ### Contact
 
 - LinkedIn: https://www.linkedin.com/in/gustavothemyus/
-- Email: gustavothemyusflima@email.com
+- Email: gustavothemyusflima@gmail.com
